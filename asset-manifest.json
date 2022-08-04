@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactapp/static/css/main.96c3d582.css",
+    "main.js": "/reactapp/static/js/main.96d1c72b.js",
+    "static/js/787.9ac1d5cb.chunk.js": "/reactapp/static/js/787.9ac1d5cb.chunk.js",
+    "static/media/moon.jpg": "/reactapp/static/media/moon.9a2137a7ede91ff0d76c.jpg",
+    "static/media/sun.jpg": "/reactapp/static/media/sun.a5fe6ab78eb04db415c0.jpg",
+    "index.html": "/reactapp/index.html",
+    "main.96c3d582.css.map": "/reactapp/static/css/main.96c3d582.css.map",
+    "main.96d1c72b.js.map": "/reactapp/static/js/main.96d1c72b.js.map",
+    "787.9ac1d5cb.chunk.js.map": "/reactapp/static/js/787.9ac1d5cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96c3d582.css",
+    "static/js/main.96d1c72b.js"
+  ]
+}
